@@ -39,6 +39,8 @@ una línea entre textos, también se verá reflejada en el archivo final pero co
 Para ver todos los nombres de colores podemos visitar la siguiente web:
 https://www.manualweb.net/html/colores-html/
 -->
+>NOTA: Por algún motivo el color en Github no se ve.
+
 ### LISTAS
 Esto es una lista desordenada:
 * item 1
