@@ -31,10 +31,14 @@ Pero si dejamos...
 una línea entre textos, también se verá reflejada en el archivo final pero con una línea vacía, a diferencia del br que no tiene interlineado.
 
 ### FORMATEO DE TEXTO
-Esto es un *texto* en cursiva o itálica<br>
-Esto es un **texto** en negrita<br>
-Esto es un ~~texto~~ tachado<br>
-
+*Esto es un texto en cursiva o itálica*<br>
+**Esto es un texto en negrita**<br>
+~~Esto es un texto tachado~~<br>
+<span style="color:darkred">Esto es color darkred.</span>
+<!--
+Para ver todos los nombres de colores podemos visitar la siguiente web:
+https://www.manualweb.net/html/colores-html/
+-->
 ### LISTAS
 Esto es una lista desordenada:
 * item 1
